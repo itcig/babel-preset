@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-### [1.1.7](https://github.com/itcig/itcig/compare/@itcig/babel-preset@1.1.6...@itcig/babel-preset@1.1.7) (2021-10-27)
+### [1.1.8](https://github.com/itcig/itcig/compare/@itcig/babel-preset@1.1.7...@itcig/babel-preset@1.1.8) (2021-10-27)
 
 **Note:** Version bump only for package @itcig/babel-preset
 
@@ -11,6 +11,10 @@ All notable changes to this project will be documented in this file. See
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+### [1.1.7](https://github.com/itcig/itcig/compare/@itcig/babel-preset@1.1.6...@itcig/babel-preset@1.1.7) (2021-10-27)
+
+**Note:** Version bump only for package @itcig/babel-preset
 
 ### [1.1.6](https://github.com/itcig/itcig/compare/@itcig/babel-preset@1.1.5...@itcig/babel-preset@1.1.6) (2021-10-27)
 

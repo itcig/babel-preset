@@ -1,6 +1,6 @@
 {
 	"name": "@itcig/babel-preset",
-	"version": "1.1.7",
+	"version": "1.1.8",
 	"license": "MIT",
 	"description": "Shareable Babel config/preset for all @itcig projects",
 	"author": {
@@ -10,8 +10,7 @@
 	"homepage": "https://github.com/itcig/babel-preset#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/itcig/itcig.git",
-		"directory": "packages/js-packages/babel-preset"
+		"url": "git+https://github.com/itcig/babel-preset.git"
 	},
 	"main": "src/index.js",
 	"module": "src/index.js",
@@ -30,7 +29,7 @@
 		"@babel/preset-react": "^7.8.3",
 		"@babel/preset-typescript": "^7.8.3",
 		"@babel/runtime": "^7.8.3",
-		"@itcig/babel-preset-optimize": "^1.1.4",
+		"@itcig/babel-preset-optimize": "^1.1.5",
 		"babel-plugin-add-module-exports": "^1.0.2",
 		"babel-plugin-transform-react-remove-prop-types": "^0.4.24"
 	},
