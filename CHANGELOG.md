@@ -1,5 +1,18 @@
 # Change Log
 
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+### [1.1.9](https://github.com/itcig/itcig/compare/@itcig/babel-preset@1.1.8...@itcig/babel-preset@1.1.9) (2021-10-28)
+
+**Note:** Version bump only for package @itcig/babel-preset
+
+
+
+
+
+# Change Log
+
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
