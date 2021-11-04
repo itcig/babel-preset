@@ -4,6 +4,6 @@ module.exports = (api, options) => {
   api.assertVersion(7);
 
   return {
-    presets: ['babel-preset-optimize', { ...options }],
+    presets: [['@itcig/babel-preset-optimize', { ...options }]],
   };
 };

@@ -1,6 +1,6 @@
 {
 	"name": "@itcig/babel-preset",
-	"version": "1.1.10",
+	"version": "1.1.11",
 	"license": "MIT",
 	"description": "Shareable Babel config/preset for all @itcig projects",
 	"author": {
@@ -30,7 +30,7 @@
 		"@babel/preset-react": "^7.8.3",
 		"@babel/preset-typescript": "^7.8.3",
 		"@babel/runtime": "^7.8.3",
-		"@itcig/babel-preset-optimize": "^1.1.6",
+		"@itcig/babel-preset-optimize": "^1.2.0",
 		"babel-plugin-add-module-exports": "^1.0.2",
 		"babel-plugin-transform-react-remove-prop-types": "^0.4.24"
 	},

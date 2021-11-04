@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.1.11](https://github.com/itcig/itcig/compare/@itcig/babel-preset@1.1.10...@itcig/babel-preset@1.1.11) (2021-11-04)
+
+
+### Bug Fixes
+
+* **babel-preset:** bad preset syntax ([b8a0830](https://github.com/itcig/itcig/commit/b8a0830186506fa56019eae0582230bfe3d897a0))
+* **babel-preset:** wrong preset name extended ([bfbcae3](https://github.com/itcig/itcig/commit/bfbcae39e0242fc359266256784b3730b65ce21c))
+
+
+
 ### [1.1.10](https://github.com/itcig/itcig/compare/@itcig/babel-preset@1.1.9...@itcig/babel-preset@1.1.10) (2021-11-04)
 
 **Note:** Version bump only for package @itcig/babel-preset
