@@ -1,6 +1,6 @@
 {
 	"name": "@itcig/babel-preset",
-	"version": "1.1.12",
+	"version": "1.1.13",
 	"license": "MIT",
 	"description": "Shareable Babel config/preset for all @itcig projects",
 	"author": {
@@ -22,7 +22,7 @@
 	},
 	"scripts": {},
 	"dependencies": {
-		"@itcig/babel-preset-optimize": "^1.3.0"
+		"@itcig/babel-preset-optimize": "^1.4.0"
 	},
 	"bugs": {
 		"url": "https://github.com/itcig/itcig/issues"
