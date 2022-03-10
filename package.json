@@ -22,7 +22,7 @@
 	},
 	"scripts": {},
 	"dependencies": {
-		"@itcig/babel-preset-optimize": "1.4.1"
+		"@itcig/babel-preset-optimize": "^1.4.1"
 	},
 	"bugs": {
 		"url": "https://github.com/itcig/itcig/issues"
